@@ -1,2 +1,2 @@
 # IOCore
-The most efficient and secure IO game framework in exsistance
+The most efficient and secure IO game framework in existence
