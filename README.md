@@ -19,4 +19,5 @@ IOCore is heavily optimised. Heres an example with Cytosis.IO
 
 #### With one player + 2900 objects + 1000 bots
 
-<img width="1376" alt="screen shot 2018-12-13 at 5 33 17 pm" src="https://user-images.githubusercontent.com/13282284/49971723-6cc79400-fefd-11e8-8abd-4b1c027a244f.png">
+<img width="1376" alt="screen shot 2018-12-13 at 5 45 00 pm" src="https://user-images.githubusercontent.com/13282284/49972205-e0b66c00-fefe-11e8-8cf4-da65a5d31e4c.png">
+
