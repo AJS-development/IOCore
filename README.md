@@ -11,7 +11,7 @@ A super efficient IO game engine written in JavaScript. It is the most efficient
 
 ## Performance
 
-IOCore is heavily optimised. Heres an example with Cytosis.IO
+IOCore is heavily optimised. Heres an example:
 
 #### With one player + 2900 objects
 
